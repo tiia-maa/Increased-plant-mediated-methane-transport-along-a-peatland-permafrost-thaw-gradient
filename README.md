@@ -19,4 +19,4 @@ Wilson, R., Bosman, S., and Chanton, J.: CH₄ and DIC concentrations and δ¹³
 Palace, M., Varner, R., Crill, P. M., Frolking, S., McCalley, C. K., Burke, S. A., Chanton, J. P., Holmes, M. E., IsoGenie Project Coordinators, and Saleska, S.: Stordalen Mire ground cover classifications, based on 2014 WorldView-2 satellite imagery 0145_Wv2-2014_GroundCoverClassifications (0.0.0), 2022.
 https://emerge-db.asc.ohio-state.edu/datasources/151 
 
-CH4 flux and peat moisture data will be published later (please contact the data providers; see the manuscript for details)
+CH₄ flux and peat moisture data will be published later (please contact the data providers; see the manuscript for details)
