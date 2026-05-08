@@ -5,8 +5,7 @@ R code used for data processing and analysis for the Määttä et al (2026) manu
 This file contains the R code used to clean and process the datasets (chamber CH4 flux, vegetation survey, root and rhizome trait and meteorological data) used in the manuscript. The code also produces some figures (Fig. B1 and Fig. B10) and tables (Tables 1, C3, C4, and C5) shown in the manuscript. 
 
 ## Data analyses (Maattaetal2026_Stordalen_analysis.R)
-This file contains the R code used to analyze the data for the manuscript. 
-
+This file contains the R code used to analyze the data for the manuscript, including statistical analyses and the majority of the figures shown in the manuscript.
 
 ## References
 
